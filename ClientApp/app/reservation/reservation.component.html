@@ -1,0 +1,48 @@
+<div class="row">
+  <div class="col-md-12">
+    <h2>Bienvenue Admin</h2>
+    <h4>Ici la liste des nouvelles reservations de vos clients, bon travail ! </h4>
+
+  </div>
+  </hr>
+</div>
+<!-- /. ROW  -->
+<hr />
+<div class="panel panel-default">
+  <div class="panel-heading">
+    Table de reservations
+  </div>
+  <div class="panel-body">
+    <div class="table-responsive">
+      <div id="dataTables-example_wrapper" class="dataTables_wrapper form-inline" role="grid">
+
+      </div>
+      <table class="table table-striped table-bordered table-hover dataTable no-footer" id="dataTables-example" aria-describedby="dataTables-example_info">
+        <thead>
+          <tr>
+            <th>Client</th>
+            <th>Produit</th>
+            <th>Date debut</th>
+            <th>Date fin</th>
+            <th>Action</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr class="odd gradeX" *ngFor="let reservation of reservations">
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td>
+              <a href="#" class="btn btn-primary">Accepter</a>
+              <a href="#" class="btn btn-danger">Refuser</a>
+            </td>
+
+          </tr>
+
+        </tbody>
+      </table>
+    </div>
+
+  </div>
+</div>

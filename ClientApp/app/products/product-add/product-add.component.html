@@ -1,0 +1,22 @@
+<p>
+  Ajout de produit!
+</p>
+
+<form ng-submit="valider()" novalidate>
+
+  <div class="form-group">
+    <label for="codeAbarr">Désignation</label>
+    <input type="text" name="codeAbarr" id="codeAbarr" [(ngModel)]="produit.Designation">
+  </div>
+
+  <div class="form-group">
+    <label for="designation">Quantite en Stock</label>
+    <input type="number" name="designation" id="designation" [(ngModel)]="produit.Quantite">
+  </div>
+
+  <div class="form-buttons">
+    <button class="btn btn-primary" (click)="valider()">valider</button>
+    <button class="btn btn-primary" (click)="goBack()">Annuler</button>
+  </div>
+
+</form>

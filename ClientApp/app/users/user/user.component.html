@@ -1,0 +1,80 @@
+<div class="container">
+  <div class="row text-center ">
+    <div class="col-md-12">
+      <br />
+      <br />
+      <h2>Nouvel utilisateur</h2>
+
+      <h5>Ajout de nouvel utilisateur</h5>
+      <br />
+    </div>
+  </div>
+  <div class="row ">
+    <div class="col-md-4 col-md-offset-4 col-sm-6 col-sm-offset-3 col-xs-10 col-xs-offset-1">
+      <div class="panel panel-default">
+        <div class="panel-heading">
+          <strong> Entrer les détails du nouvel utilisateur! </strong>
+        </div>
+        <div class="panel-body">
+          <div *ngIf="errorMessage" class="alert alert-warning">{{ errorMessage }}</div>
+          <form (submit)="addUser()" #theForm="ngForm" novalidate method="POST">
+            <br />
+            <div class="form-group input-group">
+              <span class="input-group-addon">
+                <i class="fa fa-tag"></i>
+              </span>
+              <input type="email" class="form-control" placeholder="Email" id="email" name="email" [(ngModel)]="userVm.email" required
+                #email="ngModel" />
+              <div class="text-danger" *ngIf="email.touched && email.invalid && email.errors.required">L'identifiant est requis!</div>
+            </div>
+
+            <div class="form-group input-group">
+              <span class="input-group-addon">
+                <i class="fa fa-tag"></i>
+              </span>
+              <input type="text" class="form-control" placeholder="Prénom" id="Firstname" name="Firstname" [(ngModel)]="userVm.Firstname"
+                required #Firstname="ngModel" />
+              <div class="text-danger" *ngIf="Firstname.touched && Firstname.invalid && Firstname.errors.required">L'identifiant est requis!</div>
+            </div>
+
+            <div class="form-group input-group">
+              <span class="input-group-addon">
+                <i class="fa fa-tag"></i>
+              </span>
+              <input type="text" class="form-control" placeholder="Nom" id="Lastname" name="Lastname" [(ngModel)]="userVm.Lastname" required
+                #Lastname="ngModel" />
+              <div class="text-danger" *ngIf="Lastname.touched && Lastname.invalid && Lastname.errors.required">L'identifiant est requis!</div>
+            </div>
+
+            <div class="form-group input-group">
+              <span class="input-group-addon">
+                <i class="fa fa-tag"></i>
+              </span>
+              <input type="password" class="form-control" placeholder="Mot de passe" id="Password" name="Password" [(ngModel)]="userVm.Password"
+                required #Password="ngModel" />
+              <div class="text-danger" *ngIf="Password.touched && Password.invalid && Password.errors.required">L'identifiant est requis!</div>
+            </div>
+
+            <div class="form-group input-group">
+              <span class="input-group-addon">
+                <i class="fa fa-tag"></i>
+              </span>
+
+              <select id="UserType" name="UserType" [(ngModel)]="userVm.UserType" required #UserType="ngModel">
+                <option >Sélectionner un type</option>
+                <option value="1">Employé</option>
+                <option value="2">Administrateur</option>
+              </select>
+
+              <div class="text-danger" *ngIf="UserType.touched && UserType.invalid && UserType.errors.required">Le type est requis!</div>
+            </div>
+
+            <button class="btn btn-primary " (click)="addUser()" [disabled]="theForm.invalid">Valider</button>
+            <button class="btn btn-default " (click)="goBack()">Annuler</button>
+          </form>
+        </div>
+
+      </div>
+    </div>
+  </div>
+</div>

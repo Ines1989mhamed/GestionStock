@@ -1,0 +1,72 @@
+C:\Users\aront\Desktop\Entrepot pfe\Entrepot\bin\Debug\netcoreapp2.0\Entrepot.dll
+C:\Users\aront\Desktop\Entrepot pfe\Entrepot\bin\Debug\netcoreapp2.0\Entrepot.deps.json
+C:\Users\aront\Desktop\Entrepot pfe\Entrepot\bin\Debug\netcoreapp2.0\Entrepot.runtimeconfig.json
+C:\Users\aront\Desktop\Entrepot pfe\Entrepot\bin\Debug\netcoreapp2.0\Entrepot.runtimeconfig.dev.json
+C:\Users\aront\Desktop\Entrepot pfe\Entrepot\obj\Debug\netcoreapp2.0\Entrepot.csproj.CoreCompileInputs.cache
+C:\Users\aront\Desktop\Entrepot pfe\Entrepot\obj\Debug\netcoreapp2.0\Entrepot.AssemblyInfoInputs.cache
+C:\Users\aront\Desktop\Entrepot pfe\Entrepot\obj\Debug\netcoreapp2.0\Entrepot.AssemblyInfo.cs
+C:\Users\aront\Desktop\Entrepot pfe\Entrepot\obj\Debug\netcoreapp2.0\Entrepot.dll
+C:\Users\aront\Desktop\Entrepot pfe\Entrepot\obj\Debug\netcoreapp2.0\Entrepot.pdb
+C:\Users\aront\Desktop\Entrepot pfe\Entrepot\bin\Debug\netcoreapp2.0\Entrepot.pdb
+C:\Users\aront\Desktop\Entrepot pfe\Entrepot\GestionDeStock\bin\Debug\netcoreapp2.0\Entrepot.deps.json
+C:\Users\aront\Desktop\Entrepot pfe\Entrepot\GestionDeStock\bin\Debug\netcoreapp2.0\Entrepot.runtimeconfig.json
+C:\Users\aront\Desktop\Entrepot pfe\Entrepot\GestionDeStock\bin\Debug\netcoreapp2.0\Entrepot.runtimeconfig.dev.json
+C:\Users\aront\Desktop\Entrepot pfe\Entrepot\GestionDeStock\bin\Debug\netcoreapp2.0\Entrepot.dll
+C:\Users\aront\Desktop\Entrepot pfe\Entrepot\GestionDeStock\bin\Debug\netcoreapp2.0\Entrepot.pdb
+C:\Users\aront\Desktop\Entrepot pfe\Entrepot\GestionDeStock\obj\Debug\netcoreapp2.0\Entrepot.csproj.CoreCompileInputs.cache
+C:\Users\aront\Desktop\Entrepot pfe\Entrepot\GestionDeStock\obj\Debug\netcoreapp2.0\Entrepot.AssemblyInfoInputs.cache
+C:\Users\aront\Desktop\Entrepot pfe\Entrepot\GestionDeStock\obj\Debug\netcoreapp2.0\Entrepot.AssemblyInfo.cs
+C:\Users\aront\Desktop\Entrepot pfe\Entrepot\GestionDeStock\obj\Debug\netcoreapp2.0\Entrepot.dll
+C:\Users\aront\Desktop\Entrepot pfe\Entrepot\GestionDeStock\obj\Debug\netcoreapp2.0\Entrepot.pdb
+F:\ancien bureau\Entrepot pfe\Entrepot\GestionDeStock\bin\Debug\netcoreapp2.0\Entrepot.deps.json
+F:\ancien bureau\Entrepot pfe\Entrepot\GestionDeStock\bin\Debug\netcoreapp2.0\Entrepot.runtimeconfig.json
+F:\ancien bureau\Entrepot pfe\Entrepot\GestionDeStock\bin\Debug\netcoreapp2.0\Entrepot.runtimeconfig.dev.json
+F:\ancien bureau\Entrepot pfe\Entrepot\GestionDeStock\bin\Debug\netcoreapp2.0\Entrepot.dll
+F:\ancien bureau\Entrepot pfe\Entrepot\GestionDeStock\bin\Debug\netcoreapp2.0\Entrepot.pdb
+F:\ancien bureau\Entrepot pfe\Entrepot\GestionDeStock\obj\Debug\netcoreapp2.0\Entrepot.csproj.CoreCompileInputs.cache
+F:\ancien bureau\Entrepot pfe\Entrepot\GestionDeStock\obj\Debug\netcoreapp2.0\Entrepot.AssemblyInfoInputs.cache
+F:\ancien bureau\Entrepot pfe\Entrepot\GestionDeStock\obj\Debug\netcoreapp2.0\Entrepot.AssemblyInfo.cs
+F:\ancien bureau\Entrepot pfe\Entrepot\GestionDeStock\obj\Debug\netcoreapp2.0\Entrepot.dll
+F:\ancien bureau\Entrepot pfe\Entrepot\GestionDeStock\obj\Debug\netcoreapp2.0\Entrepot.pdb
+C:\Users\aront\Desktop\Entrepot\GestionDeStock\bin\Debug\netcoreapp2.0\Entrepot.deps.json
+C:\Users\aront\Desktop\Entrepot\GestionDeStock\bin\Debug\netcoreapp2.0\Entrepot.runtimeconfig.json
+C:\Users\aront\Desktop\Entrepot\GestionDeStock\bin\Debug\netcoreapp2.0\Entrepot.runtimeconfig.dev.json
+C:\Users\aront\Desktop\Entrepot\GestionDeStock\bin\Debug\netcoreapp2.0\Entrepot.dll
+C:\Users\aront\Desktop\Entrepot\GestionDeStock\bin\Debug\netcoreapp2.0\Entrepot.pdb
+C:\Users\aront\Desktop\Entrepot\GestionDeStock\obj\Debug\netcoreapp2.0\Entrepot.csproj.CoreCompileInputs.cache
+C:\Users\aront\Desktop\Entrepot\GestionDeStock\obj\Debug\netcoreapp2.0\Entrepot.AssemblyInfoInputs.cache
+C:\Users\aront\Desktop\Entrepot\GestionDeStock\obj\Debug\netcoreapp2.0\Entrepot.AssemblyInfo.cs
+C:\Users\aront\Desktop\Entrepot\GestionDeStock\obj\Debug\netcoreapp2.0\Entrepot.dll
+C:\Users\aront\Desktop\Entrepot\GestionDeStock\obj\Debug\netcoreapp2.0\Entrepot.pdb
+F:\ancien bureau\Entrepot\GestionDeStock\bin\Debug\netcoreapp2.0\Entrepot.deps.json
+F:\ancien bureau\Entrepot\GestionDeStock\bin\Debug\netcoreapp2.0\Entrepot.runtimeconfig.json
+F:\ancien bureau\Entrepot\GestionDeStock\bin\Debug\netcoreapp2.0\Entrepot.runtimeconfig.dev.json
+F:\ancien bureau\Entrepot\GestionDeStock\bin\Debug\netcoreapp2.0\Entrepot.dll
+F:\ancien bureau\Entrepot\GestionDeStock\bin\Debug\netcoreapp2.0\Entrepot.pdb
+F:\ancien bureau\Entrepot\GestionDeStock\obj\Debug\netcoreapp2.0\Entrepot.csproj.CoreCompileInputs.cache
+F:\ancien bureau\Entrepot\GestionDeStock\obj\Debug\netcoreapp2.0\Entrepot.AssemblyInfoInputs.cache
+F:\ancien bureau\Entrepot\GestionDeStock\obj\Debug\netcoreapp2.0\Entrepot.AssemblyInfo.cs
+F:\ancien bureau\Entrepot\GestionDeStock\obj\Debug\netcoreapp2.0\Entrepot.dll
+F:\ancien bureau\Entrepot\GestionDeStock\obj\Debug\netcoreapp2.0\Entrepot.pdb
+E:\ancien bureau\Entrepot\GestionDeStock\bin\Debug\netcoreapp2.0\Entrepot.deps.json
+E:\ancien bureau\Entrepot\GestionDeStock\bin\Debug\netcoreapp2.0\Entrepot.runtimeconfig.json
+E:\ancien bureau\Entrepot\GestionDeStock\bin\Debug\netcoreapp2.0\Entrepot.runtimeconfig.dev.json
+E:\ancien bureau\Entrepot\GestionDeStock\bin\Debug\netcoreapp2.0\Entrepot.dll
+E:\ancien bureau\Entrepot\GestionDeStock\bin\Debug\netcoreapp2.0\Entrepot.pdb
+E:\ancien bureau\Entrepot\GestionDeStock\obj\Debug\netcoreapp2.0\Entrepot.csproj.CoreCompileInputs.cache
+E:\ancien bureau\Entrepot\GestionDeStock\obj\Debug\netcoreapp2.0\Entrepot.AssemblyInfoInputs.cache
+E:\ancien bureau\Entrepot\GestionDeStock\obj\Debug\netcoreapp2.0\Entrepot.AssemblyInfo.cs
+E:\ancien bureau\Entrepot\GestionDeStock\obj\Debug\netcoreapp2.0\Entrepot.dll
+E:\ancien bureau\Entrepot\GestionDeStock\obj\Debug\netcoreapp2.0\Entrepot.pdb
+E:\ancien bureau\Entrepot\GestionDeStock\obj\Debug\netcoreapp2.0\Entrepot.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\projet PFE\GestionDeStock\bin\Debug\netcoreapp2.0\Entrepot.deps.json
+C:\Users\DELL\Desktop\projet PFE\GestionDeStock\bin\Debug\netcoreapp2.0\Entrepot.runtimeconfig.json
+C:\Users\DELL\Desktop\projet PFE\GestionDeStock\bin\Debug\netcoreapp2.0\Entrepot.runtimeconfig.dev.json
+C:\Users\DELL\Desktop\projet PFE\GestionDeStock\bin\Debug\netcoreapp2.0\Entrepot.dll
+C:\Users\DELL\Desktop\projet PFE\GestionDeStock\bin\Debug\netcoreapp2.0\Entrepot.pdb
+C:\Users\DELL\Desktop\projet PFE\GestionDeStock\obj\Debug\netcoreapp2.0\Entrepot.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\projet PFE\GestionDeStock\obj\Debug\netcoreapp2.0\Entrepot.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\projet PFE\GestionDeStock\obj\Debug\netcoreapp2.0\Entrepot.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\projet PFE\GestionDeStock\obj\Debug\netcoreapp2.0\Entrepot.AssemblyInfo.cs
+C:\Users\DELL\Desktop\projet PFE\GestionDeStock\obj\Debug\netcoreapp2.0\Entrepot.dll
+C:\Users\DELL\Desktop\projet PFE\GestionDeStock\obj\Debug\netcoreapp2.0\Entrepot.pdb

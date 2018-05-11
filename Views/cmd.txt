@@ -1,0 +1,12 @@
+dotnet restore
+
+dotnet ef database drop
+dotnet ef database update
+
+dotnet build
+
+
+dotnet run
+
+localhost:5000/swagger
+localhost:5000/api/fiches
